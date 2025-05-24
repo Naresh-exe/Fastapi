@@ -1,0 +1,66 @@
+Company,Industry,Industry_Sub_Category,Country,Job_Title,Interview_type,Answer_Format
+Alibaba Group,Technology,E-commerce,China,Software Engineer,Case,STAR
+Alibaba Group,Technology,E-commerce,China,Product Manager,Case,STAR
+Alibaba Group,Technology,E-commerce,China,Data Scientist,Case,STAR
+Alibaba Group,Technology,E-commerce,China,Marketing Specialist,Behavioral,STAR
+Alibaba Group,Technology,E-commerce,China,Supply Chain Analyst,Case,STAR
+Huawei,Technology,Telecommunications Equipment,China,R&D Engineer,Technical,PAR
+Huawei,Technology,Telecommunications Equipment,China,Network Architect,Case,PAR
+Huawei,Technology,Telecommunications Equipment,China,Cloud Computing Engineer,Technical,STAR
+Huawei,Technology,Telecommunications Equipment,China,Sales Manager,Behavioral,STAR
+Huawei,Technology,Telecommunications Equipment,China,Project Manager,Panel,STAR
+Industrial and Commercial Bank of China (ICBC),Financial Services,Banking,China,Financial Analyst,Case,STAR
+Industrial and Commercial Bank of China (ICBC),Financial Services,Banking,China,Risk Manager,Behavioral,STAR
+Industrial and Commercial Bank of China (ICBC),Financial Services,Banking,China,Branch Manager,Panel,STAR
+Industrial and Commercial Bank of China (ICBC),Financial Services,Banking,China,IT Security Specialist,Technical,STAR
+Industrial and Commercial Bank of China (ICBC),Financial Services,Banking,China,Customer Service Representative,Behavioral,STAR
+BYD,Automotive,Electric Vehicles,China,Automotive Engineer,Case,STAR
+BYD,Automotive,Electric Vehicles,China,Battery Engineer,Case,STAR
+BYD,Automotive,Electric Vehicles,China,Manufacturing Engineer,Case,STAR
+BYD,Automotive,Electric Vehicles,China,Quality Control Specialist,Behavioral,STAR
+BYD,Automotive,Electric Vehicles,China,Sales Executive,Behavioral,STAR
+Xiaomi,Manufacturing,Consumer Electronics,China,Hardware Engineer,"Technical, Case, Panel","STAR, PAR"
+Xiaomi,Manufacturing,Consumer Electronics,China,Software Developer,"Coding Challenge, Technical, Virtual","STAR, PAR"
+Xiaomi,Manufacturing,Consumer Electronics,China,Industrial Designer,"Portfolio Review, Case, Panel","Portfolio Presentation, STAR"
+Xiaomi,Manufacturing,Consumer Electronics,China,Supply Chain Manager,"Case, Behavioral, Panel","STAR, Case Solution"
+Xiaomi,Manufacturing,Consumer Electronics,China,Marketing Manager,"Case, Behavioral, Panel","STAR, Case Solution"
+Contemporary Amperex Technology Co. Limited (CATL),Energy,EV Battery Manufacturing,China,R&D Engineer,Case,STAR
+Contemporary Amperex Technology Co. Limited (CATL),Energy,EV Battery Manufacturing,China,Manufacturing Engineer,Case,STAR
+Contemporary Amperex Technology Co. Limited (CATL),Energy,EV Battery Manufacturing,China,Quality Control Specialist,Behavioral,STAR
+Contemporary Amperex Technology Co. Limited (CATL),Energy,EV Battery Manufacturing,China,Supply Chain Manager,Case,STAR
+Contemporary Amperex Technology Co. Limited (CATL),Energy,EV Battery Manufacturing,China,Battery Chemist,Technical,STAR
+China Vanke,Real Estate,Property Development,China,Project Manager,Behavioral,STAR
+China Vanke,Real Estate,Property Development,China,Real Estate Sales Consultant,Behavioral,STAR
+China Vanke,Real Estate,Property Development,China,Urban Planner,Case,Structured Problem Solving
+China Vanke,Real Estate,Property Development,China,Architect,Panel,STAR
+China Vanke,Real Estate,Property Development,China,Property Management Specialist,Behavioral,PAR
+Sinopharm Group,Healthcare,Pharmaceuticals,China,Pharmacist,Behavioral,STAR
+Sinopharm Group,Healthcare,Pharmaceuticals,China,Pharmaceutical Sales Representative,Behavioral,STAR
+Sinopharm Group,Healthcare,Pharmaceuticals,China,Clinical Research Associate,Technical,PAR
+Sinopharm Group,Healthcare,Pharmaceuticals,China,Regulatory Affairs Specialist,Case,PAR
+Sinopharm Group,Healthcare,Pharmaceuticals,China,Biostatistician,Technical,PAR
+Meituan,Retail & Consumer Services,Food Delivery & Local Services,China,Software Engineer,Technical,STAR
+Meituan,Retail & Consumer Services,Food Delivery & Local Services,China,Product Manager,Case,PAR
+Meituan,Retail & Consumer Services,Food Delivery & Local Services,China,Operations Manager,Situational,STAR
+Meituan,Retail & Consumer Services,Food Delivery & Local Services,China,Marketing Specialist,Case,PAR
+Meituan,Retail & Consumer Services,Food Delivery & Local Services,China,Data Analyst,Technical,STAR
+China Railway Construction Corporation (CRCC),Infrastructure & Construction,Railway & Civil Engineering,China,Civil Engineer,Technical Interview,STAR
+China Railway Construction Corporation (CRCC),Infrastructure & Construction,Railway & Civil Engineering,China,Construction Manager,Panel Interview,STAR
+China Railway Construction Corporation (CRCC),Infrastructure & Construction,Railway & Civil Engineering,China,Structural Engineer,Technical Interview,STAR
+China Railway Construction Corporation (CRCC),Infrastructure & Construction,Railway & Civil Engineering,China,Quantity Surveyor,One-on-one,STAR
+China Railway Construction Corporation (CRCC),Infrastructure & Construction,Railway & Civil Engineering,China,Project Engineer,Technical Interview,STARCompany,Industry,Industry_Sub_Category,Country,Job_Title,Interview_type,Answer_Format
+Sinopharm Group,Healthcare,Pharmaceuticals,China,Pharmacist,One-on-one,STAR
+Sinopharm Group,Healthcare,Pharmaceuticals,China,Pharmaceutical Sales Representative,Behavioral,STAR
+Sinopharm Group,Healthcare,Pharmaceuticals,China,Clinical Research Associate,Behavioral,STAR
+Sinopharm Group,Healthcare,Pharmaceuticals,China,Regulatory Affairs Specialist,Case,STAR
+Sinopharm Group,Healthcare,Pharmaceuticals,China,Biostatistician,Case,STAR
+Meituan,Retail & Consumer Services,Food Delivery & Local Services,China,Software Engineer,Virtual,STAR
+Meituan,Retail & Consumer Services,Food Delivery & Local Services,China,Product Manager,Case,STAR
+Meituan,Retail & Consumer Services,Food Delivery & Local Services,China,Operations Manager,Behavioral,STAR
+Meituan,Retail & Consumer Services,Food Delivery & Local Services,China,Marketing Specialist,Behavioral,STAR
+Meituan,Retail & Consumer Services,Food Delivery & Local Services,China,Data Analyst,Case,STAR
+China Railway Construction Corporation (CRCC),Infrastructure & Construction,Railway & Civil Engineering,China,Civil Engineer,Case,STAR
+China Railway Construction Corporation (CRCC),Infrastructure & Construction,Railway & Civil Engineering,China,Construction Manager,Behavioral,STAR
+China Railway Construction Corporation (CRCC),Infrastructure & Construction,Railway & Civil Engineering,China,Structural Engineer,Case,STAR
+China Railway Construction Corporation (CRCC),Infrastructure & Construction,Railway & Civil Engineering,China,Quantity Surveyor,One-on-one,STAR
+China Railway Construction Corporation (CRCC),Infrastructure & Construction,Railway & Civil Engineering,China,Project Engineer,Behavioral,STAR
